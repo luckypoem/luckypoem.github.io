@@ -1,0 +1,8 @@
+---
+layout: post
+title: lili marlene
+tags: [misc1, misc2, misc3]
+date: 2026-04-14 21:59:00
+---
+
+<iframe width="535" height="401" src="https://www.youtube.com/embed/7heXZPl2hik" title="Marlene Dietrich -  Lili Marleen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
