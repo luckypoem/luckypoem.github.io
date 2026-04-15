@@ -5,7 +5,7 @@ server_port: 4000
 markdown:    kramdown
 #permalink:   date
 permalink:   pretty
-paginate:    5
+paginate:    5   
 kramdown:
   use_tex:   false
   use_divs:  false
